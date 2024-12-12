@@ -83,7 +83,7 @@ To set up and run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/imranc07/Mini_Project_1.git
-   cd nopCommercePOM
+   cd Mini_Project_1
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
